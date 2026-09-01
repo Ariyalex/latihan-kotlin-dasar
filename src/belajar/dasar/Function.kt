@@ -1,5 +1,7 @@
+package belajar.dasar
+
 fun helloWorld() {
-    println("hello world");
+    println("belajar.dasar.hello world");
 }
 
 fun name(firstName: String, lastName: String?) {

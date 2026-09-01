@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     val names: Array<String?> =
         arrayOfNulls(5); // arrayOfNull hanya bisa diisi dengan sizenya dulu, untuk mengisi datanya lewat indeks setelah deklarasi

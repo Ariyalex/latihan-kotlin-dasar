@@ -1,5 +1,7 @@
+package belajar.dasar
+
 //ada juga const, biasanya untuk keperluan global scope, biasanya gunakan nama UPPER_CASE
-//jadi harus di scobe global, tidak bisa ditaruh di function main atau sebagainya
+//jadi harus di scobe global, tidak bisa ditaruh di function belajar.dasar.main atau sebagainya
 const val VARIABLE_TETAP: String = "ini konstant";
 
 fun main() {
@@ -46,7 +48,6 @@ fun main() {
     members.set(2, "Eko");// walaupun val, isi array tetap bisa diubah.
 //    val itu yang tidak bisa diubah adalah value dari variable bukan isi dari variable, secara gampangnya array/list bisa diubah datanya.
     println(members.get(2));
-
 
 
 }

@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun toUpper(value: String): String = value.uppercase();
 
 fun main() {

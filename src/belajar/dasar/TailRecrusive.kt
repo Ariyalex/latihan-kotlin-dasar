@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     tailrec fun recursiveFunction(value: Int, total: Int = 1): Int {
         return when (value) {

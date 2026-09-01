@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     var i = 0;
 

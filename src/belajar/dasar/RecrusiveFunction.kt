@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
 
     fun factorialLoop(value: Int): Int {

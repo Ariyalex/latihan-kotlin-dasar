@@ -1,3 +1,5 @@
+package belajar.dasar
+
 infix fun String.to(type: String): String {
     if (type == "UP") {
         return this.uppercase();

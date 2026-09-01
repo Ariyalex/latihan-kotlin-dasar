@@ -1,4 +1,4 @@
-package com.company.belajar.util
+package belajar.util
 
 /**
  * ini contoh multiline comment

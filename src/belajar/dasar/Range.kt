@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     val range = 0..100;
 

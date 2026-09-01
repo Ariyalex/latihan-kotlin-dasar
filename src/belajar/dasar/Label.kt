@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun labelBreak() {
     loopI@ for (i in 1..10) {
         loopJ@ for (j in 1..10) {
@@ -17,8 +19,8 @@ fun labelContinue() {
 }
 
 fun main() {
-//    labelBreak();
-//    labelContinue()
+//    belajar.dasar.labelBreak();
+//    belajar.dasar.labelContinue()
 
     fun test(name: String, operation: (String) -> Unit): Unit = operation(name);
 

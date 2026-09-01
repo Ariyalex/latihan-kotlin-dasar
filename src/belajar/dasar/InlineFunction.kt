@@ -1,3 +1,5 @@
+package belajar.dasar
+
 inline fun hello(
     firstName: () -> String,
     noinline lastName: () -> String

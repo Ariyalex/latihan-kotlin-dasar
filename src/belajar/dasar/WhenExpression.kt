@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     val finalExam = 'B';
 
@@ -20,7 +22,7 @@ fun main() {
 
     val name = "Ariya";
     when (name) {
-        is String -> println("name: $name");
+        is String -> println("belajar.dasar.name: $name");
         !is String -> println("is not a string");
     }
 

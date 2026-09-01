@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     val names: Array<String> = arrayOf("Mary", "Mary", "Mary", "Mary", "Mary");
 

@@ -1,3 +1,5 @@
+package belajar.dasar
+
 fun main() {
     val penjumlahan: Int = 10 / 2;
     println(penjumlahan);
